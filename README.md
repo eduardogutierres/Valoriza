@@ -1,4 +1,4 @@
-Valoriza
+Projeto Valoriza.
 
 Projeto do evento da Rocketseat (Next Level Week 06). Projeto NLW Valoriza.
 
